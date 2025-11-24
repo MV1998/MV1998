@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Jetpack Compose, Clear Architecture**
 
-- 🌱 I’m currently learning **DSA, Jetpack Compose, Ktor**
+- 🌱 I’m currently learning **AI, ML, System Design (HLD and LLD)**
 
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
 
