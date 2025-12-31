@@ -27,25 +27,23 @@
 - **Coroutines & Flow, WorkManager, DataStore, LiveData, ViewModel**  
 
 ### 📌 Development Tools
-- **Android Studio, Azure DevOps, Jenkins, Git**  
-- **Gradle, ProGuard, Lint, SonarQube, Fastlane**  
+- **Android Studio, Jenkins, Git**  
+- **Gradle, ProGuard, Lint, SonarQube**  
 
 ### 📌 Architectures
-- **MVC, MVP, MVVM, MVI, Clean Architecture**  
-- **Multi-Modular Architecture, Hexagonal Architecture**  
+- **MVC, MVP, MVVM, Clean Architecture**  
+- **Multi-Modular Architecture**  
 
 ### 📌 Testing & Debugging
 - **JUnit, Espresso, MockK, Robolectric, LeakCanary**  
 - **Performance Optimization & Debugging (Profiler, Systrace, ANR Analysis, StrictMode)**  
 
 ### 📌 Specializations
-- **CI/CD Automation, GitHub Actions, Bitrise, Firebase App Distribution**  
-- **Payment Gateways (Braintree, Stripe, Paytm, Google Pay API)**  
+- **CI/CD Automation, GitHub Actions, Firebase App Distribution**
 - **App Security (SSL, OAuth, JWT, ProGuard, Obfuscation, Play Integrity API)**  
 - **Firebase (Crashlytics, Firestore, Remote Config, Analytics, Cloud Messaging, Firebase Authentication)**  
 - **Jetpack Navigation, Deep Linking, Custom Views & Animations, ExoPlayer**  
-- **Kotlin Multiplatform (KMP) for Cross-Platform Development**  
-- **GraphQL & REST API Integration, Apollo Client**  
+- **Kotlin Multiplatform (KMP) for Cross-Platform Development**
 - **Memory, Battery & Network Optimization Strategies**  
 
 💡 **Passionate about architecting scalable, secure, and high-performance Android applications.**  
