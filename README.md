@@ -1,29 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohit K. Varma</h1>
-<h3 align="center">A passionate Android Kotlin developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohit Varma</h1>
+<h3 align="center">A passionate Android Kotlin Developer</h3>
 
 - 🔭 I’m currently working on **Cherish Herbs, KidGuard**
-
 - 🌱 I’m currently learning **AI, ML, System Design (HLD and LLD)**
-
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
-
 - 👨‍💻 All of my projects are available at [github.com/MV1998](github.com/MV1998)
-
 - 💬 Ask me about **Android, Kotlin, Java**
-
 - 📫 How to reach me **mohitkishorvarma@gmail.com**
-
 - ⚡ Fun fact **My Sport IDE is Text Editor :)**
-
----
 
 ## 🔧 Skills & Expertise
 
 ### 📌 Programming
-- **Kotlin, Java, XML, JSON**  
+- **Kotlin, Java, Dart, Python(Core)**  
 
 ### 📌 Frameworks & Tools
-- **Jetpack Compose, MVVM, RxJava, Dagger, Hilt, Room, Retrofit**  
+- **Jetpack Compose, MVVM, Dagger, Hilt, Room, Retrofit, RxJava**  
 - **Coroutines & Flow, WorkManager, DataStore, LiveData, ViewModel**  
 
 ### 📌 Development Tools
@@ -47,8 +39,6 @@
 - **Memory, Battery & Network Optimization Strategies**  
 
 💡 **Passionate about architecting scalable, secure, and high-performance Android applications.**  
-
----
 
 ## 📫 Let's Connect
 - **[LinkedIn](https://www.linkedin.com/in/mohitkishorvarma/)**  
