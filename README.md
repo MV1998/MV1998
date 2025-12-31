@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit K. Varma</h1>
 <h3 align="center">A passionate Android Kotlin developer from India</h3>
 
-- 🔭 I’m currently working on **Jetpack Compose, Clear Architecture**
+- 🔭 I’m currently working on **Cherish Herbs, KidGuard**
 
 - 🌱 I’m currently learning **AI, ML, System Design (HLD and LLD)**
 
