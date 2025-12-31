@@ -25,11 +25,39 @@
 <a href="https://www.leetcode.com/https://www.leetcode.com/mv501049/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.leetcode.com/mv501049/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mv1998&show_icons=true&locale=en&layout=compact" alt="mv1998" /></p>
+## 🔧 Skills & Expertise
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mv1998&show_icons=true&locale=en" alt="mv1998" /></p>
+### 📌 Programming
+- **Kotlin, Java, XML, JSON**  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mv1998&" alt="mv1998" /></p>
+### 📌 Frameworks & Tools
+- **Jetpack Compose, MVVM, RxJava, Dagger, Hilt, Room, Retrofit**  
+- **Coroutines & Flow, WorkManager, DataStore, LiveData, ViewModel**  
+
+### 📌 Development Tools
+- **Android Studio, Azure DevOps, Jenkins, Git**  
+- **Gradle, ProGuard, Lint, SonarQube, Fastlane**  
+
+### 📌 Architectures
+- **MVC, MVP, MVVM, MVI, Clean Architecture**  
+- **Multi-Modular Architecture, Hexagonal Architecture**  
+
+### 📌 Testing & Debugging
+- **JUnit, Espresso, MockK, Robolectric, LeakCanary**  
+- **Performance Optimization & Debugging (Profiler, Systrace, ANR Analysis, StrictMode)**  
+
+### 📌 Specializations
+- **CI/CD Automation, GitHub Actions, Bitrise, Firebase App Distribution**  
+- **Payment Gateways (Braintree, Stripe, Paytm, Google Pay API)**  
+- **App Security (SSL, OAuth, JWT, ProGuard, Obfuscation, Play Integrity API)**  
+- **Firebase (Crashlytics, Firestore, Remote Config, Analytics, Cloud Messaging, Firebase Authentication)**  
+- **Jetpack Navigation, Deep Linking, Custom Views & Animations, ExoPlayer**  
+- **Kotlin Multiplatform (KMP) for Cross-Platform Development**  
+- **GraphQL & REST API Integration, Apollo Client**  
+- **Memory, Battery & Network Optimization Strategies**  
+
+💡 **Passionate about architecting scalable, secure, and high-performance Android applications.**  
+
+---
