@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Varma</h1>
 <h3 align="center">A passionate Android Kotlin Developer</h3>
 
-- 🔭 I’m currently working on **Cherish Herbs, KidGuard**
+- 🔭 I’m currently working on **Medronic, SwiftUIForge**
 - 🌱 I’m currently learning **AI, ML, System Design (HLD and LLD)**
 - 👯 I’m looking to collaborate on **Open Source Android Projects**
 - 👨‍💻 All of my projects are available at [github.com/MV1998](github.com/MV1998)
